@@ -47,7 +47,7 @@ As especificações abaixo detalham os requisitos mínimos e recomendados para o
 
 A imagem a seguir representa o tipo de notebook que atenderia às necessidades do nosso projeto, focando em portabilidade e desempenho superior:
 
-![Exemplo de Notebook de Alto Desempenho](https://www.google.com/imgres?q=Notebook%20de%2014%22%20para%20desempenho%20inteligente.%20Conta%20com%20os%20processadores%20Intel%C2%AE%20Core%E2%84%A2%20de%2013%C2%AA%20gera%C3%A7%C3%A3o%20e%20op%C3%A7%C3%B5es%20de%20c%C3%A2mera%20Full%20HD%20com%20HDR.&imgurl=https%3A%2F%2Fi.dell.com%2Fis%2Fimage%2FDellContent%2Fcontent%2Fdam%2Fss2%2Fproduct-images%2Fdell-client-products%2Fnotebooks%2Flatitude-notebooks%2Flatitude-14-3450-laptop%2Fspi%2Ftouch%2Fng%2Fnotebook-latitude-14-3450-dgpu-ir-gray-campaign-hero-504x350-ng.psd%3Ffmt%3Djpg%26wid%3D570%26hei%3D400&imgrefurl=https%3A%2F%2Fwww.dell.com%2Fpt-br%2Fshop%2Fnotebooks-dell%2Fnotebook-latitude-3450%2Fspd%2Flatitude-14-3450-laptop&docid=OG_bdzutBnbfwM&tbnid=QZs0rLcwMlHxVM&vet=12ahUKEwiipN_ak5-PAxUeGbkGHZ04FVUQM3oECBIQAA..i&w=570&h=400&hcb=2&itg=1&ved=2ahUKEwiipN_ak5-PAxUeGbkGHZ04FVUQM3oECBIQAA)
+![Exemplo de Notebook de Alto Desempenho](C:\Users\camil\OneDrive\UECE Computação\Português Instrumental\Imagem_Notebook)
 
 *Representação visual de um notebook moderno, potente e portátil, ideal para o ambiente educacional exigente.*
 
