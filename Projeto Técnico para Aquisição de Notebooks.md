@@ -1,4 +1,4 @@
-# Projeto de Modernização Tecnológica: Aquisição de Notebooks para o Ensino Híbrido no Polo Caucaia
+# Projeto de Modernização Tecnológica: Aquisição de computadores para o Ensino Híbrido no Polo Caucaia
 
 ---
 
@@ -12,7 +12,7 @@ Este projeto propõe a aquisição de **30 notebooks** para o Polo Caucaia, visa
 
 O Laboratório de Informática do Polo Caucaia, um pilar para o ensino de tecnologia e para diversas disciplinas, conta atualmente com 25 computadores desktop com mais de sete anos de uso. Esses equipamentos apresentam desempenho comprometido, com processadores e memória RAM insuficientes para executar softwares educacionais modernos, ferramentas de programação e aplicações de simulação. A baixa performance e a restrição de uso a um único laboratório limitam a flexibilidade pedagógica e impedem a integração da tecnologia em outros espaços de aprendizado.
 
-A substituição desses desktops por notebooks modernos e portáteis é crucial. Além de resolver os problemas de desempenho, a mobilidade dos notebooks permitirá que as aulas de computação sejam realizadas em diferentes salas, que projetos de grupo ocorram em áreas colaborativas e que a tecnologia seja integrada de forma mais fluida ao dia a dia da escola. Essa mudança apoiará o ensino híbrido, que combina atividades presenciais e remotas, e garantirá que o Polo Caucaia ofereça uma educação de ponta, preparando seus alunos para as dinâmicas tecnológicas atuais.
+A substituição desses desktops por notebooks modernos e portáteis é muito importante. Além de resolver os problemas de desempenho, a mobilidade dos notebooks permitirá que as aulas de computação sejam realizadas em diferentes salas, que projetos de grupo ocorram em áreas colaborativas e que a tecnologia seja integrada de forma mais fluida ao dia a dia da escola. Essa mudança apoiará o ensino híbrido, que combina atividades presenciais e remotas, e garantirá que o Polo Caucaia ofereça uma educação de ponta, preparando seus alunos para as dinâmicas tecnológicas atuais.
 
 ---
 
@@ -24,7 +24,7 @@ Os objetivos específicos desta aquisição são:
 * **2. Aumentar o Desempenho Computacional:** Reduzir em **80% o tempo de carregamento** de softwares complexos (ex: ambientes de desenvolvimento, editores de vídeo e modelagem 3D) e garantir a fluidez na execução de múltiplos aplicativos simultaneamente.
 * **3. Apoiar Novas Metodologias de Ensino:** Viabilizar projetos interdisciplinares e a implementação de recursos de ensino híbrido e remoto, com acesso a plataformas online de forma eficiente.
 * **4. Reduzir Custos Operacionais:** Diminuir o consumo de energia elétrica em aproximadamente **30%** em comparação com os desktops atuais, além de otimizar o espaço físico.
-* **5. Preparar para o Futuro:** Fornecer aos alunos acesso a ferramentas portáteis que espelham o ambiente de trabalho profissional e universitário contemporâneo.
+* **5. Preparar para o Futuro:** Fornecer aos alunos acesso a ferramentas portáteis e modernas que espelham o ambiente de trabalho profissional e universitário contemporâneo.
 
 ---
 
@@ -47,7 +47,7 @@ As especificações abaixo detalham os requisitos mínimos e recomendados para o
 
 A imagem a seguir representa o tipo de notebook que atenderia às necessidades do nosso projeto, focando em portabilidade e desempenho superior:
 
-![Exemplo de Notebook de Alto Desempenho](https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/15-3530-intel/media-gallery/black/notebook-inspiron-15-3530-nt-plastic-black-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=606&qlt=100,1&resMode=sharp2&size=606,402&chrss=full)
+![Exemplo de Notebook de Alto Desempenho](C:\Users\camil\OneDrive\UECE Computação\Português Instrumental)
 
 *Representação visual de um notebook moderno, potente e portátil, ideal para o ambiente educacional exigente.*
 
@@ -61,14 +61,14 @@ A tabela abaixo apresenta uma estimativa de custo para a aquisição e implement
 
 | Item                             | Quantidade | Custo Unitário Estimado (R$) | Custo Total Estimado (R$) |
 | :------------------------------- | :--------: | :---------------------------: | :-----------------------: |
-| **Notebook (Modelo Premium)** | 30         | 5.500,00                     | 165.000,00                |
-| Seguro contra acidentes (anual)  | 30         | 50,00                        | 1.500,00                  |
+| **Notebook (Modelo Premium)** | 30         | 5.350,00                     | 160.500,00                |
+| Seguro contra acidentes (anual)  | 30         | 60,00                        | 1.800,00                  |
 | Sistema de rastreamento (licença/dispositivo) | 30         | 25,00                        | 750,00                    |
 | Licenças de Software (Pacote Educacional) | 30         | 50,00                        | 1.500,00                  |
 | Bolsas/Cases de Proteção (premium) | 30         | 35,00                        | 1.050,00                  |
 | Roteador Wi-Fi (para laboratório) | 1          | 500,00                       | 500,00                    |
-| Instalação e Configuração Inicial | 1          | 250,00                       | 250,00                    |
-| **TOTAL GERAL ESTIMADO** |            |                               | **165.750,00** |
+| Instalação e Configuração Inicial | 1          | 450,00                       | 450,00                    |
+| **TOTAL GERAL ESTIMADO** |            |                               | **166.050,00** |
 
 ---
 
