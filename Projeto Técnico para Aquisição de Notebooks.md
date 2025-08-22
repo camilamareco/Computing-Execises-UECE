@@ -47,7 +47,7 @@ As especificações abaixo detalham os requisitos mínimos e recomendados para o
 
 A imagem a seguir representa o tipo de notebook que atenderia às necessidades do nosso projeto, focando em portabilidade e desempenho superior:
 
-![Exemplo de Notebook de Alto Desempenho](https://www.dell.com/pt-br/shop/notebooks-dell/notebook-latitude-3450/spd/latitude-14-3450-laptop)
+![Exemplo de Notebook de Alto Desempenho](Imagem_Notebook.png)
 
 *Representação visual de um notebook moderno, potente e portátil, ideal para o ambiente educacional exigente.*
 
